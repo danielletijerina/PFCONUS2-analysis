@@ -3,31 +3,34 @@
 ###########################################
 
 # This script takes hourly PF outputs as PFB files and computes the daily averages to be saved as PFB files.
-# DTT & EL
+# DTT & EL, 10/2022
 
 # Inputs:
 # - Directory where PF outputs are and directory where you want to save output
 # - Hourly PFB files of PF outputs
-# - water year and day start/end
+# - Water year and day start/end
 
 # Outputs:
 # - PFB files for daily average of each variable:  
-#     - Overland flow at each grid cell (flow)
-#     - Soil moisture (SM)  
-#     - Water table depth (WTD)  
-#     - Surface water storage (SURF_WATstorage)
-
-#   - _Subsurface Storage Components:_
-#     - Total Subsurface Storage (SUBstorage)
-#     - GW storage (GWstorage)*
-#     - Soil moisture storage (SMstorage)*
-
+#     - Overland flow at each grid cell (flow) [m^3/h]   
+#     - Soil moisture (SM) [-]  
+#     - Water table depth (WTD) [m]   
+#     - Surface water storage (SURF_WATstorage) [m^3]
+#     - Total Subsurface Storage (SUBstorage) [m^3]  
+#       - *** To note, the output of SUBstorage is a 3D array of storage for each subsurface layer, 
+#       so the GW storage and SM storage can be computed from those files at a later time. Additionally, in order to 
+#       compute the TOTAL subsurface storage, one must sum all layers for these arrays. This is different 
+#       from the postprocessing done using the Fortran files, where each of the storage components had to be 
+#       computed and saved up front. 
+   
     
 # Notes (10/21/22):
 # - Need to determine when is the daily start and end for US time zone, NLDAS3 forcing is UTC
 # - Need to add in monthly and yearly averages - Created new script for this since we are processing one month at a time `Compute_month-year_averages_PFCLM.ipynb`
 # - ADD UNITS OF CALCULATIONS!
 # - *Need to figure out the GW and SM Storage (which layers, do we even want to separate by layer, do by WTD???)
+#   - Idea: Create mask from WTD (above and below)?
+#   - Don't need to super worry about this now, since the Total Subsurface Storage is a 3D array with storage in each layer. We can calculate GWstorage and SMstorage later. 
 
 
 import numpy as np
@@ -106,14 +109,12 @@ for day in range(day_start,day_end):
     timestamp_day_out = str(int(day+1)).rjust(3, '0')
 
     ##INITIALIZE WHATEVER DYNAMIC VARIABLES THAT NEED HOURLY READING
-    overland_flow = np.zeros((ny, nx)) # Flow
-    soil_moisture = np.zeros((nz,ny,nx)) # Soil Moisture
-    wtd = np.zeros((ny, nx)) # Water Table Depth
-    surface_storage = np.zeros((ny,nx)) # Surface Water Storage
-    # Subsurface Storage Components
-    subsurface_storage = np.zeros((nz,ny,nx)) # Total Subsurface Storage
-    gw_storage = np.zeros((nz,ny,nx)) # Groundwater Storage
-    sm_storage = np.zeros((nz,ny,nx)) # Soil Moisture Storage
+    overland_flow = np.zeros((ny, nx))              # Flow
+    soil_moisture = np.zeros((nz,ny,nx))            # Soil Moisture
+    wtd = np.zeros((ny, nx))                        # Water Table Depth
+    surface_storage = np.zeros((ny,nx))             # Surface Water Storage
+    subsurface_storage = np.zeros((nz,ny,nx))       # Total Subsurface Storage
+
 
     
     for h in range(day*24+1,(day+1)*24+1):
@@ -143,12 +144,6 @@ for day in range(day_start,day_end):
         
         # Total Subsurface Storage
         subsurface_storage += hydro.calculate_subsurface_storage(porosity, pressure, saturation, specific_storage, dx, dy, dz_3d, mask = active_mask)
-        
-        # Groundwater Storage (THIS IS ONLY THE BOTTOM LAYER, SHOULD BE CHANGED WRT WTD)
-        gw_storage += subsurface_storage[0,...]
-        
-        # Soil Moisture Storage (THIS IS ONLY THE SUM OF THE TOP 4 LAYERS, SHOULD BE CHANGED WRT WTD)
-        sm_storage += np.sum(subsurface_storage[1:4,...], axis = 0)
 
                
     ### compute average for select variables ###
@@ -157,8 +152,7 @@ for day in range(day_start,day_end):
     wtd /= 24 
     surface_storage /= 24
     subsurface_storage /= 24
-    gw_storage /= 24
-    sm_storage /= 24
+ 
 
     #subsurface[active_mask==0]=-10**(38) ### ???????????
     
@@ -168,7 +162,5 @@ for day in range(day_start,day_end):
     write_pfb(f'{directory_out}/WTD.{water_year}.daily.{timestamp_day_out}.pfb',wtd,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
     write_pfb(f'{directory_out}/SURF_WATstorage.{water_year}.daily.{timestamp_day_out}.pfb',surface_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
     write_pfb(f'{directory_out}/SUBstorage.{water_year}.daily.{timestamp_day_out}.pfb',subsurface_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
-    write_pfb(f'{directory_out}/GWstorage.{water_year}.daily.{timestamp_day_out}.pfb',gw_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
-    write_pfb(f'{directory_out}/SMstorage.{water_year}.daily.{timestamp_day_out}.pfb',sm_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
     
 
