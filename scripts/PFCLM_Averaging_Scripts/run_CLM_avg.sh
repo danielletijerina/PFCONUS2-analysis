@@ -8,7 +8,7 @@
 #PBS -l select=1:ncpus=1:mem=100GB
 #PBS -j oe
 
-#PBS -o log.oe
+#PBS -o logCLM.oe
 
 source /etc/profile.d/modules.sh
 ml conda
