@@ -41,9 +41,9 @@ import parflow.tools.hydrology as hydro
 NCLMOUTPUTS = 13 + 4 #13 (number variables) + number of layers over which CLM is active, NZ root
 
 ### DEFINE WATER YEAR, START DAY, & END DAY ###
-water_year = 1999
-day_start = 364 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
-day_end = 365 #day_end = 365 is the final day of the water year, Sept 30
+water_year = 2003
+day_start = 0 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
+day_end = 2 #day_end = 365 is the final day of the water year, Sept 30
 
 #these 3 entries (year, day start and day end) will eventually be argv to the script so that it can be run from bash script
 # water_year = int(sys.argv[1])
@@ -53,61 +53,43 @@ day_end = 365 #day_end = 365 is the final day of the water year, Sept 30
 
 ### DEFINE PATHS ###
 ## path to CLM hourly outputs
-#path_outputs = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/run_inputs/'
-path_outputs = f'/hydrodata/PFCLM/Taylor/simulations/{water_year}/' #f'/WY{water_year}/'
+path_outputs = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/run_inputs/' 
+#path_outputs = f'/hydrodata/PFCLM/Taylor/simulations/{water_year}/' #f'/WY{water_year}/'
 
 ## PFCLM run name
-runname = f'Taylor_{water_year}' #f'CONUS2_{water_year}'
-# runname = 'spinup.wy2003'
-
+runname = 'spinup.wy2003' #f'CONUS2_{water_year}'
 
 ## directory to save averages to
-#directory_out = f'/glade/scratch/tijerina/CONUS2/spinup_WY2003/averages'
-directory_out = '/home/dtt2/CONUS2/analysis_scripts/Taylor_test_outputs'
+directory_out = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/averages'
+                
+#directory_out = '/home/dtt2/CONUS2/analysis_scripts/Taylor_test_outputs'
 
 
 ### READING ALL STATIC VARIABLES AND DOMAIN INFO NEEDED ###
-####### TAYLOR ########
+#### CONUS #######
 
-nz = 5 #10
-ny = 47 #3256
-nx = 45 #4442
+nz = 10
+ny = 3256
+nx = 4442
 
 dx = 1000
 dy = 1000
-dz = 5 # 200
-#dz_3d = data.dz
+dz = 200
+# dz_3d = data.dz
 
-# apparently it's good to use high numbers when saving files to speed up reading?
-# for write_pfb function
-p = 5 #72
-q = 5 #48
+#apparently it's good to use high numbers when saving files to speed up reading?
+p = 72
+q = 48
 r = 1
-
-#### CONUS #######
-
-# nz = 10
-# ny = 3256
-# nx = 4442
-
-# dx = 1000
-# dy = 1000
-# dz = 200
-## dz_3d = data.dz
-
-# #apparently it's good to use high numbers when saving files to speed up reading?
-# p = 48
-# q = 36
-# r = 1
 
 
 ### DEFINE CLM AVERAGES TO BE COMPUTED ###
 #list of clm variables you want
-variables_clm = ['eflx_lh_tot', 'eflx_sh_tot', 'qflx_evap_grnd','qflx_tran_veg', 'swe_out', 't_grnd', 't_soil']
+variables_clm = ['eflx_lh_tot', 'eflx_sh_tot', 'qflx_evap_grnd','qflx_tran_veg', 'qflx_evap_tot', 'swe_out', 't_grnd', 't_soil']
 
 ## indication for whether you want the mean (1) or the sum (0)
 ## The order here should correspond to the list made in `variables_clm` 
-variables_clm_mean = [1,1,0,0,1,1,1] 
+variables_clm_mean = [1,1,0,0,0,1,1,1] 
 
 # Don't change this
 ALL_CLM = ['eflx_lh_tot','eflx_lwrad_out','eflx_sh_tot','eflx_soil_grnd','qflx_evap_tot','qflx_evap_grnd','qflx_evap_soi','qflx_evap_veg','qflx_tran_veg','qflx_infl','swe_out','t_grnd','qflx_qirr','t_soil']

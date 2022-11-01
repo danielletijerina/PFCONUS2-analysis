@@ -42,8 +42,8 @@ import parflow.tools.hydrology as hydro
 
 ### DEFINE WATER YEAR, START DAY, & END DAY ###
 water_year = 2003
-day_start = 1 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
-day_end = 3 #day_end = 365 is the final day of the water year, Sept 30
+day_start = 0 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
+day_end = 31 #day_end = 365 is the final day of the water year, Sept 30
 
 #these 3 entries (year, day start and day end) will eventually be argv to the script so that it can be run from bash script
 # water_year = int(sys.argv[1])
