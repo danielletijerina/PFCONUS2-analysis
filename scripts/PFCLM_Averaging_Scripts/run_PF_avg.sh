@@ -17,4 +17,4 @@ conda activate parflow-npl
 source /glade/u/home/tijerina/.parflow.3.11.bashrc
 
 cd /glade/work/tijerina/PFCONUS2-analysis/scripts/PFCLM_Averaging_Scripts
-python3 compute_daily_PF_averages.py > PF_avg_out.txt
+python3 compute_daily_PF_averages.py > RUNLOG_PF_avg.txt
