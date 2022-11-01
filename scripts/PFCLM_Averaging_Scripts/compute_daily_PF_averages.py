@@ -41,7 +41,7 @@ import parflow.tools.hydrology as hydro
 
 
 ### DEFINE WATER YEAR, START DAY, & END DAY ###
-water_year = 1999
+water_year = 2003
 day_start = 1 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
 day_end = 3 #day_end = 365 is the final day of the water year, Sept 30
 
@@ -53,53 +53,51 @@ day_end = 3 #day_end = 365 is the final day of the water year, Sept 30
 
 ### DEFINE PATHS ###
 ## path to PF outputs 
-#path_outputs = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/run_inputs/' 
-path_outputs = f'/hydrodata/PFCLM/Taylor/simulations/{water_year}/' #f'/WY{water_year}/'
+path_outputs = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/run_inputs/' 
+#path_outputs = f'/hydrodata/PFCLM/Taylor/simulations/{water_year}/' #f'/WY{water_year}/'
 
 ## PFCLM run name
-runname = f'Taylor_{water_year}' #f'CONUS2_{water_year}'
+runname = 'spinup.wy2003' #f'CONUS2_{water_year}'
 
 ## directory to save averages to
-#directory_out = f'/glade/scratch/tijerina/CONUS2/spinup_WY2003/averages'
-directory_out = '/home/dtt2/CONUS2/analysis_scripts/Taylor_test_outputs'
+directory_out = 'glade/scratch/tijerina/CONUS2/spinup_WY2003/averages'
+#directory_out = '/home/dtt2/CONUS2/analysis_scripts/Taylor_test_outputs'
 
 
 ### READING ALL STATIC VARIABLES AND DOMAIN INFO NEEDED ###
 ## DATA ACCESSOR VARIABLES 
 run = Run.from_definition(f'{path_outputs}/{runname}.pfidb') #CONUS2
-#correcting the metfilepath (folder names where changed after Taylor runs, pfidb still have old paths)
-run.Solver.CLM.MetFilePath = f'/hydrodata/PFCLM/Taylor/simulations/{water_year}/NLDAS/'
+
 data = run.data_accessor
 porosity = data.computed_porosity 
 specific_storage = data.specific_storage 
-###################################################mannings = data.mannings
-mannings = run.Mannings.Geom.domain.Value
+mannings = data.mannings
+
 ## remove input filenames for TopoSlopes to force the data accessor to read the output slopes
 ## this fixes a windows issue
 run.TopoSlopesX.FileName = None
 run.TopoSlopesY.FileName = None
 slopex = data.slope_x 
 slopey = data.slope_y 
-mask = data.mask
 
 ## formatting the mask so that values outside the domain are NA and inside the domain are 1
-## check with mask that has 0 and 1
+mask = data.mask
 active_mask=mask.copy()
 active_mask[active_mask > 0] = 1
 
-nz = 5 #10
-ny = 47 #3256
-nx = 45 #4442
+nz = 10
+ny = 3256
+nx = 4442
 
 dx = 1000
 dy = 1000
-dz = 5 # 200
+dz = 200
 dz_3d = data.dz
 
 # apparently it's good to use high numbers when saving files to speed up reading?
 # for write_pfb function
-p = 5 #72
-q = 5 #48
+p = 72
+q = 48
 r = 1
 
 
@@ -117,7 +115,7 @@ for day in range(day_start,day_end):
 
 
     
-    for h in range(day*24+1,(day+1)*24+1):
+    for h in range(day*24+1+6,(day+1)*24+1+6) # FOR UTC TIME: range(day*24+1,(day+1)*24+1):
         #### I *THINK* that to average these for CONUS (so assuming UTC-6), this would change to range(day*24+1+6,(day+1)*24+1+6):
         timestamp_reading = str(int(h)).rjust(5, '0')
         
@@ -130,13 +128,13 @@ for day in range(day_start,day_end):
         # Computations
         ###################
         # Flow [m^3/s] 
-        overland_flow = hydro.calculate_overland_flow_grid(pressure, slopex, slopey, mannings, dx, dy, mask = active_mask)
+        overland_flow += hydro.calculate_overland_flow_grid(pressure, slopex, slopey, mannings, dx, dy, mask = active_mask)
         
         #Soil Moisture [-]
         soil_moisture += saturation * porosity
         
         # Water Table Depth
-        wtd = hydro.calculate_water_table_depth(pressure, saturation, dz_3d)
+        wtd += hydro.calculate_water_table_depth(pressure, saturation, dz_3d)
         
         # Surface Storage
         ## total surface storage for this time step is the summation of substorage surface across all x/y slices <-- from other script, is this still TRUE??
