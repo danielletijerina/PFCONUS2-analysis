@@ -115,7 +115,7 @@ for day in range(day_start,day_end):
 
 
     
-    for h in range(day*24+1+6,(day+1)*24+1+6) # FOR UTC TIME: range(day*24+1,(day+1)*24+1):
+    for h in range(day*24+1+6,(day+1)*24+1+6): # FOR UTC TIME: range(day*24+1,(day+1)*24+1):
         #### I *THINK* that to average these for CONUS (so assuming UTC-6), this would change to range(day*24+1+6,(day+1)*24+1+6):
         timestamp_reading = str(int(h)).rjust(5, '0')
         
