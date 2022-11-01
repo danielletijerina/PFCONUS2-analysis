@@ -36,14 +36,18 @@ from parflow import Run
 import sys
 from parflow.tools.io import read_pfb,write_pfb
 import parflow.tools.hydrology as hydro
+import time
 
+startTime = time.time()
 
 NCLMOUTPUTS = 13 + 4 #13 (number variables) + number of layers over which CLM is active, NZ root
 
 ### DEFINE WATER YEAR, START DAY, & END DAY ###
 water_year = 2003
 day_start = 0 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
-day_end = 2 #day_end = 365 is the final day of the water year, Sept 30
+day_end = 31 #day_end = 365 is the final day of the water year, Sept 30
+print(f'Start Day: {day_start}')
+print(f'End Day: {day_end}')
 
 #these 3 entries (year, day start and day end) will eventually be argv to the script so that it can be run from bash script
 # water_year = int(sys.argv[1])
@@ -155,4 +159,6 @@ for day in range(day_start,day_end):
         #SAVE VARIABLES CLM outputs
         write_pfb(f'{directory_out}/{variables_clm[ind_clm]}.{water_year}.daily.{timestamp_day_out}.pfb',clm_save,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
 
-    
+
+executionTime = (time.time() - startTime)
+print('Execution time in seconds: ' + str(executionTime))
