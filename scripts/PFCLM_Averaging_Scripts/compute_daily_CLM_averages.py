@@ -65,6 +65,7 @@ runname = 'spinup.wy2003' #f'CONUS2_{water_year}'
 
 ## directory to save averages to
 directory_out = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/averages'
+print(f'Saving averages to: {directory_out}')
                 
 #directory_out = '/home/dtt2/CONUS2/analysis_scripts/Taylor_test_outputs'
 
