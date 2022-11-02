@@ -125,7 +125,7 @@ for day in range(day_start,day_end):
     
     if not variables_clm == False:
         clm_output = np.zeros((NCLMOUTPUTS,ny,nx))
-    for h in range(day*24+1,(day+1)*24+1):
+    for h in range(day*24+1+6,(day+1)*24+1+6): #day*24+1,(day+1)*24+1
         timestamp_reading = str(int(h)).rjust(5, '0')
 
         #CLM Variables
