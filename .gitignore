@@ -1,5 +1,5 @@
-/Figures
 *.csv
+Figures/
 *.pfb
 *.tiff
 .DS_Store
