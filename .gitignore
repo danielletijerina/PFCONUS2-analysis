@@ -1,8 +1,14 @@
+# My Ignores
+*.png
+*.jpeg
+*.jpg
+*.pdf
 *.csv
 Figures/
 *.pfb
 *.tiff
 .DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
