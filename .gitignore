@@ -1,4 +1,5 @@
-
+/Figures
+*.csv
 *.pfb
 *.tiff
 .DS_Store
