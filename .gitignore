@@ -1,4 +1,6 @@
 # My Ignores
+*.oe #logs
+RUNLOG* #script logs
 *.png
 *.jpeg
 *.jpg
