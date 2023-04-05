@@ -14,7 +14,7 @@ source /etc/profile.d/modules.sh
 ml conda
 conda activate parflow-npl
 
-source /glade/u/home/tijerina/.parflow.3.11.bashrc
+source /glade/u/home/tijerina/.parflow.3.12.bashrc
 
 cd /glade/work/tijerina/PFCONUS2-analysis/scripts/PFCLM_Averaging_Scripts
 python3 compute_daily_CLM_averages.py > RUNLOG_CLM_avg.txt

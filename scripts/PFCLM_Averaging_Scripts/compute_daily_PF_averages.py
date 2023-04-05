@@ -44,8 +44,8 @@ startTime = time.time()
 
 ### DEFINE WATER YEAR, START DAY, & END DAY ###
 water_year = 2003
-day_start = 31 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
-day_end = 61 #day_end = 365 is the final day of the water year, Sept 30
+day_start = 137 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
+day_end = 273 #day_end = 365 is the final day of the water year, Sept 30
 print(f'Start Day: {day_start}')
 print(f'End Day: {day_end}')
 
