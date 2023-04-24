@@ -44,8 +44,8 @@ startTime = time.time()
 
 ### DEFINE WATER YEAR, START DAY, & END DAY ###
 water_year = 2003
-day_start = 137 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
-day_end = 273 #day_end = 365 is the final day of the water year, Sept 30
+day_start = 0 #day_start = 0 is the first day of the water year, Oct 1 (e.g., day_start = 2 starts at hour 49)
+day_end = 364 #day_end = 364 is the final day of the water year, Sept 30
 print(f'Start Day: {day_start}')
 print(f'End Day: {day_end}')
 
@@ -115,10 +115,10 @@ for day in range(day_start,day_end):
 
     ##INITIALIZE WHATEVER DYNAMIC VARIABLES THAT NEED HOURLY READING
     overland_flow = np.zeros((ny, nx))              # Flow
-    soil_moisture = np.zeros((nz,ny,nx))            # Soil Moisture
-    wtd = np.zeros((ny, nx))                        # Water Table Depth
-    surface_storage = np.zeros((ny,nx))             # Surface Water Storage
-    subsurface_storage = np.zeros((nz,ny,nx))       # Total Subsurface Storage
+    #soil_moisture = np.zeros((nz,ny,nx))            # Soil Moisture
+    #wtd = np.zeros((ny, nx))                        # Water Table Depth
+    #surface_storage = np.zeros((ny,nx))             # Surface Water Storage
+    #subsurface_storage = np.zeros((nz,ny,nx))       # Total Subsurface Storage
 
 
     
@@ -127,7 +127,7 @@ for day in range(day_start,day_end):
         timestamp_reading = str(int(h)).rjust(5, '0')
         
         #read pressure and saturation at timestep 
-        saturation = read_pfb(f'{path_outputs}{runname}.out.satur.{timestamp_reading}.pfb') * active_mask
+        #saturation = read_pfb(f'{path_outputs}{runname}.out.satur.{timestamp_reading}.pfb') * active_mask
         pressure = read_pfb(f'{path_outputs}{runname}.out.press.{timestamp_reading}.pfb') * active_mask
         print(f'reading {path_outputs}{runname}.out... at time {timestamp_reading}')
         
@@ -138,21 +138,21 @@ for day in range(day_start,day_end):
         overland_flow += hydro.calculate_overland_flow_grid(pressure, slopex, slopey, mannings, dx, dy, mask = active_mask)
         
         #Soil Moisture [-]
-        soil_moisture += saturation * porosity
+        #soil_moisture += saturation * porosity
         
         # Water Table Depth
-        wtd += hydro.calculate_water_table_depth(pressure, saturation, dz_3d)
+        #wtd += hydro.calculate_water_table_depth(pressure, saturation, dz_3d)
         
         # Surface Storage
         ## total surface storage for this time step is the summation of substorage surface across all x/y slices <-- from other script, is this still TRUE??
-        surface_storage += hydro.calculate_surface_storage(pressure, dx, dy, mask = active_mask)
+        #surface_storage += hydro.calculate_surface_storage(pressure, dx, dy, mask = active_mask)
         
         # Total Subsurface Storage
-        subsurface_storage += hydro.calculate_subsurface_storage(porosity, pressure, saturation, specific_storage, dx, dy, dz_3d, mask = active_mask)
+        #subsurface_storage += hydro.calculate_subsurface_storage(porosity, pressure, saturation, specific_storage, dx, dy, dz_3d, mask = active_mask)
 
                
-    ### compute average for select variables ###
-    # note: flow is ACCUMULATED, so no need to average here
+    ### compute daily average ###
+    overland_flow /= 24
     soil_moisture /= 24
     wtd /= 24 
     surface_storage /= 24
@@ -163,10 +163,10 @@ for day in range(day_start,day_end):
     
     ### SAVE VARIABLES AS PFB FILES
     write_pfb(f'{directory_out}/flow.{water_year}.daily.{timestamp_day_out}.pfb',overland_flow,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
-    write_pfb(f'{directory_out}/SM.{water_year}.daily.{timestamp_day_out}.pfb',soil_moisture,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
-    write_pfb(f'{directory_out}/WTD.{water_year}.daily.{timestamp_day_out}.pfb',wtd,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
-    write_pfb(f'{directory_out}/SURF_WATstorage.{water_year}.daily.{timestamp_day_out}.pfb',surface_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
-    write_pfb(f'{directory_out}/SUBstorage.{water_year}.daily.{timestamp_day_out}.pfb',subsurface_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
+    # write_pfb(f'{directory_out}/SM.{water_year}.daily.{timestamp_day_out}.pfb',soil_moisture,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
+    # write_pfb(f'{directory_out}/WTD.{water_year}.daily.{timestamp_day_out}.pfb',wtd,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
+    # write_pfb(f'{directory_out}/SURF_WATstorage.{water_year}.daily.{timestamp_day_out}.pfb',surface_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
+    # write_pfb(f'{directory_out}/SUBstorage.{water_year}.daily.{timestamp_day_out}.pfb',subsurface_storage,dx=dx,dy=dy,dz=dz,P=p,Q=q,R=r,dist=False)
     
 
 executionTime = (time.time() - startTime)
