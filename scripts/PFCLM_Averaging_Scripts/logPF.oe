@@ -59,3 +59,11 @@ Due to MODULEPATH changes, the following have been reloaded:
 The following have been reloaded with a version change:
   1) intel/19.1.1 => intel/18.0.5
 
+Traceback (most recent call last):
+  File "compute_daily_PF_averages.py", line 131, in <module>
+    pressure = read_pfb(f'{path_outputs}{runname}.out.press.{timestamp_reading}.pfb') * active_mask
+  File "/glade/work/tijerina/conda-envs/parflow-npl/lib/python3.7/site-packages/parflow/tools/io.py", line 85, in read_pfb
+    with ParflowBinaryReader(file, read_sg_info=read_sg_info) as pfb:
+  File "/glade/work/tijerina/conda-envs/parflow-npl/lib/python3.7/site-packages/parflow/tools/io.py", line 392, in __init__
+    self.f = open(self.filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/glade/scratch/tijerina/CONUS2/spinup_WY2003/run_inputs/spinup.wy2003.out.press.00007.pfb'

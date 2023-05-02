@@ -1,0 +1,14 @@
+Start Day: 0
+End Day: 364
+Saving averages to: /glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages
+Solver: Field BinaryOutDir is not part of the expected schema <class 'parflow.tools.database.generated.Solver'>
+Solver.OverlandKinematic: Field SeepageOne is not part of the expected schema <class 'parflow.tools.database.generated.OverlandKinematic'>
+Solver.OverlandKinematic: Field SeepageTwo is not part of the expected schema <class 'parflow.tools.database.generated.OverlandKinematic'>
+Warning: The following CLM variables could not be set:
+  - nt
+  - sw_ini
+  - hkdepth
+  - wtfact
+  - trsmx0
+  - smpmax
+  - pondmx
