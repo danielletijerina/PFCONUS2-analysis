@@ -1,0 +1,728 @@
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.001.pfb
+reading flow for day 001 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.002.pfb
+reading flow for day 002 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.003.pfb
+reading flow for day 003 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.004.pfb
+reading flow for day 004 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.005.pfb
+reading flow for day 005 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.006.pfb
+reading flow for day 006 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.007.pfb
+reading flow for day 007 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.008.pfb
+reading flow for day 008 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.009.pfb
+reading flow for day 009 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.010.pfb
+reading flow for day 010 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.011.pfb
+reading flow for day 011 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.012.pfb
+reading flow for day 012 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.013.pfb
+reading flow for day 013 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.014.pfb
+reading flow for day 014 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.015.pfb
+reading flow for day 015 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.016.pfb
+reading flow for day 016 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.017.pfb
+reading flow for day 017 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.018.pfb
+reading flow for day 018 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.019.pfb
+reading flow for day 019 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.020.pfb
+reading flow for day 020 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.021.pfb
+reading flow for day 021 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.022.pfb
+reading flow for day 022 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.023.pfb
+reading flow for day 023 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.024.pfb
+reading flow for day 024 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.025.pfb
+reading flow for day 025 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.026.pfb
+reading flow for day 026 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.027.pfb
+reading flow for day 027 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.028.pfb
+reading flow for day 028 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.029.pfb
+reading flow for day 029 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.030.pfb
+reading flow for day 030 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.031.pfb
+reading flow for day 031 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.032.pfb
+reading flow for day 032 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.033.pfb
+reading flow for day 033 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.034.pfb
+reading flow for day 034 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.035.pfb
+reading flow for day 035 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.036.pfb
+reading flow for day 036 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.037.pfb
+reading flow for day 037 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.038.pfb
+reading flow for day 038 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.039.pfb
+reading flow for day 039 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.040.pfb
+reading flow for day 040 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.041.pfb
+reading flow for day 041 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.042.pfb
+reading flow for day 042 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.043.pfb
+reading flow for day 043 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.044.pfb
+reading flow for day 044 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.045.pfb
+reading flow for day 045 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.046.pfb
+reading flow for day 046 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.047.pfb
+reading flow for day 047 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.048.pfb
+reading flow for day 048 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.049.pfb
+reading flow for day 049 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.050.pfb
+reading flow for day 050 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.051.pfb
+reading flow for day 051 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.052.pfb
+reading flow for day 052 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.053.pfb
+reading flow for day 053 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.054.pfb
+reading flow for day 054 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.055.pfb
+reading flow for day 055 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.056.pfb
+reading flow for day 056 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.057.pfb
+reading flow for day 057 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.058.pfb
+reading flow for day 058 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.059.pfb
+reading flow for day 059 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.060.pfb
+reading flow for day 060 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.061.pfb
+reading flow for day 061 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.062.pfb
+reading flow for day 062 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.063.pfb
+reading flow for day 063 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.064.pfb
+reading flow for day 064 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.065.pfb
+reading flow for day 065 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.066.pfb
+reading flow for day 066 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.067.pfb
+reading flow for day 067 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.068.pfb
+reading flow for day 068 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.069.pfb
+reading flow for day 069 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.070.pfb
+reading flow for day 070 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.071.pfb
+reading flow for day 071 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.072.pfb
+reading flow for day 072 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.073.pfb
+reading flow for day 073 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.074.pfb
+reading flow for day 074 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.075.pfb
+reading flow for day 075 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.076.pfb
+reading flow for day 076 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.077.pfb
+reading flow for day 077 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.078.pfb
+reading flow for day 078 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.079.pfb
+reading flow for day 079 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.080.pfb
+reading flow for day 080 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.081.pfb
+reading flow for day 081 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.082.pfb
+reading flow for day 082 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.083.pfb
+reading flow for day 083 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.084.pfb
+reading flow for day 084 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.085.pfb
+reading flow for day 085 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.086.pfb
+reading flow for day 086 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.087.pfb
+reading flow for day 087 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.088.pfb
+reading flow for day 088 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.089.pfb
+reading flow for day 089 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.090.pfb
+reading flow for day 090 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.091.pfb
+reading flow for day 091 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.092.pfb
+reading flow for day 092 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.093.pfb
+reading flow for day 093 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.094.pfb
+reading flow for day 094 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.095.pfb
+reading flow for day 095 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.096.pfb
+reading flow for day 096 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.097.pfb
+reading flow for day 097 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.098.pfb
+reading flow for day 098 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.099.pfb
+reading flow for day 099 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.100.pfb
+reading flow for day 100 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.101.pfb
+reading flow for day 101 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.102.pfb
+reading flow for day 102 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.103.pfb
+reading flow for day 103 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.104.pfb
+reading flow for day 104 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.105.pfb
+reading flow for day 105 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.106.pfb
+reading flow for day 106 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.107.pfb
+reading flow for day 107 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.108.pfb
+reading flow for day 108 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.109.pfb
+reading flow for day 109 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.110.pfb
+reading flow for day 110 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.111.pfb
+reading flow for day 111 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.112.pfb
+reading flow for day 112 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.113.pfb
+reading flow for day 113 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.114.pfb
+reading flow for day 114 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.115.pfb
+reading flow for day 115 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.116.pfb
+reading flow for day 116 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.117.pfb
+reading flow for day 117 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.118.pfb
+reading flow for day 118 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.119.pfb
+reading flow for day 119 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.120.pfb
+reading flow for day 120 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.121.pfb
+reading flow for day 121 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.122.pfb
+reading flow for day 122 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.123.pfb
+reading flow for day 123 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.124.pfb
+reading flow for day 124 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.125.pfb
+reading flow for day 125 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.126.pfb
+reading flow for day 126 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.127.pfb
+reading flow for day 127 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.128.pfb
+reading flow for day 128 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.129.pfb
+reading flow for day 129 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.130.pfb
+reading flow for day 130 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.131.pfb
+reading flow for day 131 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.132.pfb
+reading flow for day 132 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.133.pfb
+reading flow for day 133 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.134.pfb
+reading flow for day 134 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.135.pfb
+reading flow for day 135 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.136.pfb
+reading flow for day 136 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.137.pfb
+reading flow for day 137 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.138.pfb
+reading flow for day 138 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.139.pfb
+reading flow for day 139 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.140.pfb
+reading flow for day 140 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.141.pfb
+reading flow for day 141 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.142.pfb
+reading flow for day 142 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.143.pfb
+reading flow for day 143 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.144.pfb
+reading flow for day 144 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.145.pfb
+reading flow for day 145 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.146.pfb
+reading flow for day 146 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.147.pfb
+reading flow for day 147 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.148.pfb
+reading flow for day 148 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.149.pfb
+reading flow for day 149 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.150.pfb
+reading flow for day 150 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.151.pfb
+reading flow for day 151 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.152.pfb
+reading flow for day 152 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.153.pfb
+reading flow for day 153 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.154.pfb
+reading flow for day 154 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.155.pfb
+reading flow for day 155 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.156.pfb
+reading flow for day 156 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.157.pfb
+reading flow for day 157 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.158.pfb
+reading flow for day 158 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.159.pfb
+reading flow for day 159 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.160.pfb
+reading flow for day 160 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.161.pfb
+reading flow for day 161 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.162.pfb
+reading flow for day 162 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.163.pfb
+reading flow for day 163 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.164.pfb
+reading flow for day 164 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.165.pfb
+reading flow for day 165 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.166.pfb
+reading flow for day 166 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.167.pfb
+reading flow for day 167 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.168.pfb
+reading flow for day 168 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.169.pfb
+reading flow for day 169 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.170.pfb
+reading flow for day 170 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.171.pfb
+reading flow for day 171 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.172.pfb
+reading flow for day 172 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.173.pfb
+reading flow for day 173 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.174.pfb
+reading flow for day 174 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.175.pfb
+reading flow for day 175 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.176.pfb
+reading flow for day 176 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.177.pfb
+reading flow for day 177 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.178.pfb
+reading flow for day 178 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.179.pfb
+reading flow for day 179 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.180.pfb
+reading flow for day 180 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.181.pfb
+reading flow for day 181 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.182.pfb
+reading flow for day 182 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.183.pfb
+reading flow for day 183 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.184.pfb
+reading flow for day 184 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.185.pfb
+reading flow for day 185 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.186.pfb
+reading flow for day 186 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.187.pfb
+reading flow for day 187 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.188.pfb
+reading flow for day 188 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.189.pfb
+reading flow for day 189 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.190.pfb
+reading flow for day 190 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.191.pfb
+reading flow for day 191 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.192.pfb
+reading flow for day 192 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.193.pfb
+reading flow for day 193 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.194.pfb
+reading flow for day 194 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.195.pfb
+reading flow for day 195 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.196.pfb
+reading flow for day 196 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.197.pfb
+reading flow for day 197 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.198.pfb
+reading flow for day 198 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.199.pfb
+reading flow for day 199 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.200.pfb
+reading flow for day 200 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.201.pfb
+reading flow for day 201 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.202.pfb
+reading flow for day 202 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.203.pfb
+reading flow for day 203 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.204.pfb
+reading flow for day 204 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.205.pfb
+reading flow for day 205 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.206.pfb
+reading flow for day 206 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.207.pfb
+reading flow for day 207 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.208.pfb
+reading flow for day 208 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.209.pfb
+reading flow for day 209 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.210.pfb
+reading flow for day 210 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.211.pfb
+reading flow for day 211 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.212.pfb
+reading flow for day 212 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.213.pfb
+reading flow for day 213 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.214.pfb
+reading flow for day 214 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.215.pfb
+reading flow for day 215 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.216.pfb
+reading flow for day 216 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.217.pfb
+reading flow for day 217 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.218.pfb
+reading flow for day 218 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.219.pfb
+reading flow for day 219 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.220.pfb
+reading flow for day 220 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.221.pfb
+reading flow for day 221 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.222.pfb
+reading flow for day 222 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.223.pfb
+reading flow for day 223 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.224.pfb
+reading flow for day 224 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.225.pfb
+reading flow for day 225 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.226.pfb
+reading flow for day 226 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.227.pfb
+reading flow for day 227 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.228.pfb
+reading flow for day 228 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.229.pfb
+reading flow for day 229 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.230.pfb
+reading flow for day 230 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.231.pfb
+reading flow for day 231 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.232.pfb
+reading flow for day 232 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.233.pfb
+reading flow for day 233 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.234.pfb
+reading flow for day 234 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.235.pfb
+reading flow for day 235 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.236.pfb
+reading flow for day 236 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.237.pfb
+reading flow for day 237 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.238.pfb
+reading flow for day 238 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.239.pfb
+reading flow for day 239 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.240.pfb
+reading flow for day 240 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.241.pfb
+reading flow for day 241 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.242.pfb
+reading flow for day 242 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.243.pfb
+reading flow for day 243 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.244.pfb
+reading flow for day 244 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.245.pfb
+reading flow for day 245 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.246.pfb
+reading flow for day 246 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.247.pfb
+reading flow for day 247 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.248.pfb
+reading flow for day 248 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.249.pfb
+reading flow for day 249 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.250.pfb
+reading flow for day 250 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.251.pfb
+reading flow for day 251 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.252.pfb
+reading flow for day 252 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.253.pfb
+reading flow for day 253 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.254.pfb
+reading flow for day 254 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.255.pfb
+reading flow for day 255 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.256.pfb
+reading flow for day 256 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.257.pfb
+reading flow for day 257 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.258.pfb
+reading flow for day 258 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.259.pfb
+reading flow for day 259 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.260.pfb
+reading flow for day 260 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.261.pfb
+reading flow for day 261 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.262.pfb
+reading flow for day 262 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.263.pfb
+reading flow for day 263 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.264.pfb
+reading flow for day 264 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.265.pfb
+reading flow for day 265 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.266.pfb
+reading flow for day 266 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.267.pfb
+reading flow for day 267 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.268.pfb
+reading flow for day 268 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.269.pfb
+reading flow for day 269 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.270.pfb
+reading flow for day 270 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.271.pfb
+reading flow for day 271 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.272.pfb
+reading flow for day 272 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.273.pfb
+reading flow for day 273 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.274.pfb
+reading flow for day 274 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.275.pfb
+reading flow for day 275 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.276.pfb
+reading flow for day 276 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.277.pfb
+reading flow for day 277 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.278.pfb
+reading flow for day 278 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.279.pfb
+reading flow for day 279 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.280.pfb
+reading flow for day 280 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.281.pfb
+reading flow for day 281 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.282.pfb
+reading flow for day 282 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.283.pfb
+reading flow for day 283 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.284.pfb
+reading flow for day 284 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.285.pfb
+reading flow for day 285 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.286.pfb
+reading flow for day 286 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.287.pfb
+reading flow for day 287 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.288.pfb
+reading flow for day 288 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.289.pfb
+reading flow for day 289 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.290.pfb
+reading flow for day 290 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.291.pfb
+reading flow for day 291 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.292.pfb
+reading flow for day 292 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.293.pfb
+reading flow for day 293 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.294.pfb
+reading flow for day 294 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.295.pfb
+reading flow for day 295 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.296.pfb
+reading flow for day 296 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.297.pfb
+reading flow for day 297 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.298.pfb
+reading flow for day 298 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.299.pfb
+reading flow for day 299 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.300.pfb
+reading flow for day 300 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.301.pfb
+reading flow for day 301 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.302.pfb
+reading flow for day 302 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.303.pfb
+reading flow for day 303 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.304.pfb
+reading flow for day 304 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.305.pfb
+reading flow for day 305 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.306.pfb
+reading flow for day 306 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.307.pfb
+reading flow for day 307 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.308.pfb
+reading flow for day 308 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.309.pfb
+reading flow for day 309 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.310.pfb
+reading flow for day 310 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.311.pfb
+reading flow for day 311 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.312.pfb
+reading flow for day 312 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.313.pfb
+reading flow for day 313 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.314.pfb
+reading flow for day 314 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.315.pfb
+reading flow for day 315 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.316.pfb
+reading flow for day 316 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.317.pfb
+reading flow for day 317 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.318.pfb
+reading flow for day 318 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.319.pfb
+reading flow for day 319 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.320.pfb
+reading flow for day 320 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.321.pfb
+reading flow for day 321 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.322.pfb
+reading flow for day 322 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.323.pfb
+reading flow for day 323 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.324.pfb
+reading flow for day 324 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.325.pfb
+reading flow for day 325 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.326.pfb
+reading flow for day 326 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.327.pfb
+reading flow for day 327 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.328.pfb
+reading flow for day 328 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.329.pfb
+reading flow for day 329 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.330.pfb
+reading flow for day 330 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.331.pfb
+reading flow for day 331 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.332.pfb
+reading flow for day 332 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.333.pfb
+reading flow for day 333 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.334.pfb
+reading flow for day 334 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.335.pfb
+reading flow for day 335 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.336.pfb
+reading flow for day 336 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.337.pfb
+reading flow for day 337 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.338.pfb
+reading flow for day 338 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.339.pfb
+reading flow for day 339 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.340.pfb
+reading flow for day 340 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.341.pfb
+reading flow for day 341 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.342.pfb
+reading flow for day 342 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.343.pfb
+reading flow for day 343 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.344.pfb
+reading flow for day 344 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.345.pfb
+reading flow for day 345 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.346.pfb
+reading flow for day 346 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.347.pfb
+reading flow for day 347 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.348.pfb
+reading flow for day 348 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.349.pfb
+reading flow for day 349 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.350.pfb
+reading flow for day 350 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.351.pfb
+reading flow for day 351 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.352.pfb
+reading flow for day 352 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.353.pfb
+reading flow for day 353 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.354.pfb
+reading flow for day 354 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.355.pfb
+reading flow for day 355 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.356.pfb
+reading flow for day 356 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.357.pfb
+reading flow for day 357 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.358.pfb
+reading flow for day 358 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.359.pfb
+reading flow for day 359 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.360.pfb
+reading flow for day 360 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.361.pfb
+reading flow for day 361 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.362.pfb
+reading flow for day 362 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.363.pfb
+reading flow for day 363 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
+/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages/flow.2003.daily.364.pfb
+reading flow for day 364 and converting from total accumulated flow in m^3/h, to daily mean flow in cms
