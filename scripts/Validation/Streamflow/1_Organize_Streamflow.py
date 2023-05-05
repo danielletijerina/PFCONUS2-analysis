@@ -91,5 +91,12 @@ pf_flow_match_df = pd.DataFrame(pf_flow_matched)
 pf_flow_match_df = pf_flow_match_df.set_index(obs_data.index)
 column_headers = list(obs_data.columns.values)
 pf_flow_match_df.columns = column_headers
-# save as csv
-pf_flow_match_df.to_csv(f'{organized_dir}/PFCONUS2_Daily_matched_flow_cms{water_year}.csv', sep = ",")
+
+# remove rows with NA (gages outside of PFCONUS2 domain) in PF flow and corresponding rows in obs_data
+pf_flow_match_df_new = pf_flow_match_df.dropna()
+obs_data_new = obs_data[obs_data.index.isin(pf_flow_match_df_new.index)]
+
+# save matched daily average flow and metadata as csv's
+pf_flow_match_df_new.to_csv(f'{organized_dir}/PFCONUS2_Daily_matched_flow_cms_{water_year}.csv', sep = ",")
+obs_data_new.to_csv(f'{organized_dir}/USGS_Daily_matched_flow_cms_{water_year}.csv', sep = ",")
+metadata_new.to_csv(f'{organized_dir}/USGS_metadata_matched_flow_{water_year}.csv', sep = ",")
