@@ -63,6 +63,7 @@ obs_data = obs_data.drop(columns=['num_obs'])
 # make CONUS2 x and y into arrays for the for loop
 conusy = np.asarray(metadata['conus2_y'],dtype = 'int')
 conusx = np.asarray(metadata['conus2_x'],dtype = 'int')
+
 # Set up arrays 
 pf_flow_array = np.zeros((no_days, ny, nx)) #array of full daily flow pfb
 pf_flow_matched = np.zeros(obs_data.shape) #array of gage matched daily flow
