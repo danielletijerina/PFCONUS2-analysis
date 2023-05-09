@@ -10,6 +10,9 @@
 /Validation
 - Scripts used for validation of water balance components, including forcing
     /GHCND
+    /SNOTEL
+    /Streamflow
+    /WTD
 
 /pressure_checks
 - Notebooks used pre-transient spin-up runs to debug the pressure problems
