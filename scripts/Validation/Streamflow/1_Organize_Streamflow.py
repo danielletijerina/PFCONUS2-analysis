@@ -26,12 +26,16 @@ import matplotlib.pyplot as plt
 import datetime
 
 
-# Directory where PF flow PFBs are saved in
-directory_out = '/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages'
-organized_dir = '/glade/work/tijerina/PFCONUS2-analysis/scripts/Validation/Streamflow/Organized_Daily_Flow'
+### Directory where PF flow PFBs are saved in ###
+## Cheyenne
+#directory_out = '/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages'
+#organized_dir = '/glade/work/tijerina/PFCONUS2-analysis/scripts/Validation/Streamflow/Organized_Daily_Flow'
+## Hydrodata
+directory_out = '/hydrodata/temp/CONUS2_transfers/CONUS2/spinup_WY2003/averages'
+organized_dir = './Organized_Daily_Flow'
 
-obs_data_file = 'Streamflow_USGS_obs_daily_avg_WY2003.csv' #csv of USGS flow from hydrodata
-metadata_file = 'Streamflow_USGS_obs_metadata_daily_avg_WY2003.csv' #csv of USGS flow from hydrodata
+obs_data_file = 'Hydrodata_streamflow_obs_daily_avg_WY2003.csv' #csv of USGS flow from hydrodata
+metadata_file = 'Hydrodata_streamflow_metadata_daily_avg_WY2003.csv' #csv of USGS flow from hydrodata
 
 ny = 3256
 nx = 4442
