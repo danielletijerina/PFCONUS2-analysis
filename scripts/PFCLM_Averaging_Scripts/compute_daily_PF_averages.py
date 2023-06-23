@@ -57,7 +57,7 @@ print(f'End Day: {day_end}')
 ### DEFINE PATHS ###
 ## path to PF outputs 
 path_outputs = '/glade/scratch/tijerina/CONUS2/spinup_WY2003/run_inputs/' 
-#path_outputs = f'/hydrodata/PFCLM/Taylor/simulations/{water_year}/' #f'/WY{water_year}/'
+
 
 ## PFCLM run name
 runname = 'spinup.wy2003' #f'CONUS2_{water_year}'
@@ -65,8 +65,6 @@ runname = 'spinup.wy2003' #f'CONUS2_{water_year}'
 ## directory to save averages to
 directory_out = '/glade/p/univ/ucsm0002/CONUS2/CONUS2.spinup.WY2003/averages'
 print(f'Saving averages to: {directory_out}')
-                
-#directory_out = '/home/dtt2/CONUS2/analysis_scripts/Taylor_test_outputs'
 
 
 ### READING ALL STATIC VARIABLES AND DOMAIN INFO NEEDED ###
@@ -101,6 +99,7 @@ dz_3d = data.dz
 
 # apparently it's good to use high numbers when saving files to speed up reading?
 # for write_pfb function
+# this is currently the same processor topology CONUS2 was run on Cheyenne
 p = 72
 q = 48
 r = 1
