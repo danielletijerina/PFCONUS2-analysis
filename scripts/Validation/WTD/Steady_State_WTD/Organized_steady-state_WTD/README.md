@@ -1,0 +1,1 @@
+gridded_WTD_mean_obs_CONUS2.pfb - from Yueling. This is the mean WTD observations (I think from USGS + Fan) at grid locations
